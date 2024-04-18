@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I received the BE degree in information security from Xidian University, China, in 2023. I am currently working toward the master degree in cyber security with Xidian University. I am currently involved in the security mechanisms in cloud computing.
 <!--
 **Handontsmoke/Handontsmoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
